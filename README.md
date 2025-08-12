@@ -21,6 +21,15 @@
 ## Tools & Software 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,githubactions,gitlab,git,postman)](https://skillicons.dev)
 
+## My Coding Profiles
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/patilyashh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/PATILYASHH)
+[![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yash0305)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/patilyashh)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-%23325F80.svg?style=for-the-badge&logo=InterviewBit&logoColor=white)](https://www.interviewbit.com/profile/patilyashh)
+
+
 <details>	
   <summary><b>Google Developer Badges 🏆</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -72,16 +81,4 @@
 
 </div>
 
-<p align="center">
-  
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-X-fff?logo=X&logoColor=black&style=flat-square" alt="X" />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-fff?logo=discord&logoColor=7289DA&style=flat-square" alt="Discord" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-fff?logo=LinkedIn&logoColor=0077B5&style=flat-square" alt="LinkedIn" />
-  </a>
-</p>
 
