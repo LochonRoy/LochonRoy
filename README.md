@@ -2,6 +2,8 @@
 </br>
 <h2 align="center">Aspiring Data Scientist & AI Enthusiast passionate about real-world solutions</h2>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 - 🔭 Currently building a Real-time Helmet Detection & Traffic Rule Enforcement System using YOLOv9, CNN, OCR, and Streamlit.
 - 🌱 Enhancing skills in Data Science, Cloud Computing, and AI model deployment for practical, scalable solutions.
@@ -9,6 +11,7 @@
 - 💬 Skilled in AI model training, project implementation from concept to deployment, and academic research development.
 - 🎓 BSc in Computer Science & Engineering graduate with hands-on experience in AI, Computer Vision, and Web Development.
 - 📍 From Bangladesh.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 # 💻 Tech Stack
 ## Programming Languages
@@ -17,6 +20,28 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,mongodb,solidity)](https://skillicons.dev)
 ## Tools & Software 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,githubactions,gitlab,git,postman)](https://skillicons.dev)
+
+<details>	
+  <summary><b>Google Developer Badges 🏆</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://developers.google.com/profile/badges/playlists/solutions/ai-gemini-getting-started-android">
+<img src="https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg" width="150px" height="150px" />
+</a>
+<a href="https://developers.google.com/profile/badges/profile/created-profile">
+<img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="150px" height="150px" />
+</a>
+<a href="https://developers.google.com/profile/badges/recognitions/learnings">
+<img src="https://developers.google.com/static/profile/badges/recognitions/learnings/learnings.svg" width="150px" height="150px" /> 
+</a>
+<a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
+<img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="150px" height="150px" />
+</a>
+<a href="https://developers.google.com/profile/badges/community/tec/member">
+<img src="https://developers.google.com/static/profile/badges/community/tec/member/badge.svg" width="150px" height="150px" />
+</a>
+</div>
+</details>
+
 
 <details>	
  <summary><b>GitHub Certifications :octocat:</b></summary><br>
@@ -46,3 +71,17 @@
  
 
 </div>
+
+<p align="center">
+  
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-X-fff?logo=X&logoColor=black&style=flat-square" alt="X" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-fff?logo=discord&logoColor=7289DA&style=flat-square" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-fff?logo=LinkedIn&logoColor=0077B5&style=flat-square" alt="LinkedIn" />
+  </a>
+</p>
+
