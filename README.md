@@ -21,7 +21,7 @@
 ## Tools & Software 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,githubactions,gitlab,git,postman)](https://skillicons.dev)
 
-## My Coding Profiles
+## Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/patilyashh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/PATILYASHH)
