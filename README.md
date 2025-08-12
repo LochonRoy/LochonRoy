@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </br>
-<h1 align="center">Hi 👋, Lochon Chandra Roy</h1>
-<h3 align="center">Aspiring Data Scientist & Computer Vision Enthusiast with expertise in AI model development, passionate about building scalable, real-world solutions.</h3>
+<h2 align="center">Aspiring Data Scientist & AI Enthusiast passionate about real-world solutions</h2>
+
 
 - 🔭 Currently building a Real-time Helmet Detection & Traffic Rule Enforcement System using YOLOv9, CNN, OCR, and Streamlit.
 - 🌱 Enhancing skills in Data Science, Cloud Computing, and AI model deployment for practical, scalable solutions.
